@@ -1,0 +1,14 @@
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore compiled class files and bin folder
+bin/
+*.class
+
+# Ignore generated PDF bills
+*.pdf
+
+# Ignore log files
+*.log
