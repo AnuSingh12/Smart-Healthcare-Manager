@@ -13,7 +13,7 @@ This application helps manage hospital operations such as patient records, docto
 
 #Tech Stack
 
-* Java (Core Java / JavaFX)
+* Java (Core Java/JavaFX)
 * MySQL Database
 * JDBC (Java Database Connectivity)
 * PDF Generation
